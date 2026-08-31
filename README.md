@@ -30,3 +30,10 @@ to check branch : git branch
 to rename branch : git branch -M newName
 if we're working on same repo for long time , so instead writing alway git push origin main we simply give command give push -u  origin main. later only type git push
 </p>
+<p> 
+git checkout branchName: used to go to another branch
+git checkout -b newBranchName : used to create new branch
+git branch -d branchName : used to delete branch
+git diff x(branchName) : comparing y branch to x branch 
+git merge x(branchName) : merging two branches i.e. y to x
+</p>
