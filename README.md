@@ -15,4 +15,4 @@ git add file name, also to add all changes write git add .</p>
 <p>commit : it is the record of change 
 git commit -m "some message" 
 </p>
-<p>To show those changes in git hub we use push : git push origin main
+<p>To show those changes in git hub we use push : git push origin main </p>
