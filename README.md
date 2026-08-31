@@ -23,3 +23,10 @@ git commit -m "some message"
 <p> init - used to creat a new git repo
 git init</p>
 <p> make new repo on cs code : mkdir fileName</p>
+<p> 
+to add local repo to remote : git remote add origin link 
+to verify remote : git remote -v
+to check branch : git branch
+to rename branch : git branch -M newName
+if we're working on same repo for long time , so instead writing alway git push origin main we simply give command give push -u  origin main. later only type git push
+</p>
