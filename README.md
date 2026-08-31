@@ -35,5 +35,10 @@ git checkout branchName: used to go to another branch
 git checkout -b newBranchName : used to create new branch
 git branch -d branchName : used to delete branch
 git diff x(branchName) : comparing y branch to x branch 
-git merge x(branchName) : merging two branches i.e. y to x
+git merge x(branchName) : merging two branches i.e. y to x in github
+git pull origin main : remote yanii github waale changes vs code main bhi dikhenge
+# undoing changes
+1. staged changes , maane add kia pr commit baki hain : git reset fileName
+2. commited change, maane commit kia pr psh karna baki hain : git reset HEAD~1
+3. many commit : git reset commitHash
 </p>
